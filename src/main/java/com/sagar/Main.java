@@ -16,7 +16,8 @@ public class Main {
         cacheService.put("first","First Project Done!!");
         cacheService.put("second","second Project Done!!");
         cacheService.put("third","third Project Done!!");
-        cacheService.put("first","First Project Done!!");
+        cacheService.put("hello","Hello Project Done!!");
+        cacheService.delete("hello");
 
         System.out.println(cacheService.get("first"));
         System.out.println(cacheService.get("second"));
