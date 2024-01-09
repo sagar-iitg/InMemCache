@@ -1,0 +1,28 @@
+In-Memory Cache:
+
+Description:
+We got a new client from web-services company. Clients wants to have a efficiently designed In-Memory Cache system, which he/she can invoke with the driver class.
+
+
+Requirements:
+- create a user-defined size cache and with Eviction policy as “LRU”
+- support fetch/Insert/Delete/Clear functionality in the system.
+
+Other Details:
+Do not use any database or NoSQL store, use in-memory store for now. 
+Do not create any UI for the application. 
+Write a driver class for demo purposes. Which will execute all the commands at one place in the code and test cases. 
+Please prioritize code compilation, execution and completion. 
+Please do not access the internet for anything EXCEPT syntax. 
+You are free to use the language of your choice. 
+All work should be your own. If found otherwise, you may be disqualified.
+
+Expectations:
+Code should be demo-able (very important) 
+Complete coding within the duration of 90 minutes. 
+Code should be modular, with Object Oriented design. 
+Maintain good separation of concerns. 
+Code should be extensible. It should be easy to add/remove functionality without rewriting the entire codebase. 
+Code should handle edge cases properly and fail gracefully. 
+Code should be readable. 
+Follow good coding practices: Use intuitive variable names, function names, class names etc. Indent code properly. Once the code is complete please zip the source code and upload it to: xxxyyyzzz.com
