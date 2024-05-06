@@ -8,6 +8,8 @@ public class Main {
 
     public static void main(String[] args) {
 
+
+        //cache service is singleton class
         CacheService cacheService= CacheService.getInstance();
 
 
